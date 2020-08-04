@@ -11,3 +11,7 @@ After reading this article, you should be able to:
 -   Use DBI frameworks for modifying an application’s behavior using injected hooks
 
 All sample PE files and scripts provided are licensed under GPL v2.0. I have also provided presentations for quick reference as you read through if you feel you want to dig deeper into this subject. 
+
+![Using Frida for DBI Hooking Functions](https://github.com/dc401/dynamic-instrumentation/blob/master/frida-runtime.png?raw=true)
+
+![Manually Patching a .NET Binary](https://github.com/dc401/dynamic-instrumentation/blob/master/hex-patch.png?raw=true)
